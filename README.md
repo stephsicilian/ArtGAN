@@ -5,5 +5,6 @@ Generator Adversarial Network that generates an original portriat
 <br>
 <br>
 Team members: Noor Ul Huda, Stephanie Sicilian, and Jocinda Vázquez
+<br>
 Dataset source: https://www.kaggle.com/datasets/deewakarchakraborty/portrait-paintings
 <br>
