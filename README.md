@@ -6,4 +6,4 @@ Dataset source: https://www.kaggle.com/datasets/deewakarchakraborty/portrait-pai
 <br>
 This repository was used at the Pace University AI Internship Experince
 <br>
-TGenerator Adversarial Network that generates an original portriat 
+Generator Adversarial Network that generates an original portriat 
